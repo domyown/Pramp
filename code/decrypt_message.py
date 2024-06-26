@@ -25,8 +25,8 @@ output: "encyclopedia"
 
 """
 
-# O(n) time
-# O(n) space
+# Time Complexity : O(n) 
+# Space Complexity : O(n) 
 def decrypt(word):
   decryption = ""
   prev_letter_val = 1
