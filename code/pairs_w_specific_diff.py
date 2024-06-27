@@ -17,7 +17,8 @@ output: []
 """
 
 
-# all solutions are O(n) time and O(n) space complexity 
+# Time Complexity : O(n)
+# Space Complexity : O(n)
 
 
 # one pass solution
